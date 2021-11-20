@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi / नमस्ते / Привет 👋
 
 <!--
 **shez1461/shez1461** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
