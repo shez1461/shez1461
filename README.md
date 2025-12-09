@@ -22,6 +22,4 @@ Here are some ideas to get you started:
 <a href="https://shez.app" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/domain.png"/></a>
 <a href="mailto:mr.mohamed.shez@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/email.png"/>Work</a>
 <a href="mailto:shez1461@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/email.png"/>Casual</a>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=shez1461&show_icons=true&count_private=true" width="400" height="auto"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shez1461&layout=compact&show_icons=true/" width="auto" height="158"/>
+
