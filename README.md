@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.linkedin.com/in/mohamedshez/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href="https://www.instagram.com/shez1461/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
-<a href="https://www.youtube.com/channel/UC3Q3MqlbWoR2v_QAj6P5uIQ/" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube--v1.png"/></a>
-<a href="https://shez1461.wixsite.com/kash" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/domain.png"/></a>
-<a href="https://shez.app" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/domain.png"/></a>
+<a href="https://www.linkedin.com/in/mohamedshez/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/>LI</a>
+<a href="https://www.instagram.com/shez1461/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>IG</a>
+<a href="https://www.youtube.com/channel/UC3Q3MqlbWoR2v_QAj6P5uIQ/" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube--v1.png"/>YouTube</a>
+<a href="https://shez1461.wixsite.com/kash" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/domain.png"/>Shop</a>
+<a href="https://shez.app" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/domain.png"/>Todo App</a>
 <a href="mailto:mr.mohamed.shez@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/email.png"/>Work</a>
-<a href="mailto:shez1461@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/email.png"/>Casual</a>
+<a href="mailto:shez1461@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/email.png"/>Personal</a>
 
